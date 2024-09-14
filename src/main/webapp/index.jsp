@@ -70,7 +70,7 @@
 
     <div class="container">
         <div class="logo">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Java_Logo.svg/1024px-Java_Logo.svg.png" alt="Java Logo">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo">
         </div>
         <h2>Welcome Pearlyn,<br>Commander of Java, Master of CI/CD Pipelines</h2>
 
