@@ -72,7 +72,7 @@
         <div class="logo">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo">
         </div>
-        <h2>Welcome Pearlyn,<br>Commander of Java, Master of CI/CD Pipelines</h2>
+        <h2>Welcome Pkind,<br>Commander of Java, Master of CI/CD Pipelines</h2>
 
         <table>
             <tr>
